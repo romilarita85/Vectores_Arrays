@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase10_10\bin\Debug\net8.0\Clase10_10.exe
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase10_10\bin\Debug\net8.0\Clase10_10.deps.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase10_10\bin\Debug\net8.0\Clase10_10.runtimeconfig.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase10_10\bin\Debug\net8.0\Clase10_10.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase10_10\bin\Debug\net8.0\Clase10_10.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase10_10\obj\Debug\net8.0\Clase10_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase10_10\obj\Debug\net8.0\Clase10_10.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase10_10\obj\Debug\net8.0\Clase10_10.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase10_10\obj\Debug\net8.0\Clase10_10.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase10_10\obj\Debug\net8.0\Clase10_10.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase10_10\obj\Debug\net8.0\refint\Clase10_10.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase10_10\obj\Debug\net8.0\Clase10_10.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase10_10\obj\Debug\net8.0\Clase10_10.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase10_10\obj\Debug\net8.0\ref\Clase10_10.dll

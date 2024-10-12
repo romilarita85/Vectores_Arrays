@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase08_10_Intro\bin\Debug\net8.0\Clase08_10_Intro.exe
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase08_10_Intro\bin\Debug\net8.0\Clase08_10_Intro.deps.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase08_10_Intro\bin\Debug\net8.0\Clase08_10_Intro.runtimeconfig.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase08_10_Intro\bin\Debug\net8.0\Clase08_10_Intro.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase08_10_Intro\bin\Debug\net8.0\Clase08_10_Intro.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase08_10_Intro\obj\Debug\net8.0\Clase08_10_Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase08_10_Intro\obj\Debug\net8.0\Clase08_10_Intro.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase08_10_Intro\obj\Debug\net8.0\Clase08_10_Intro.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase08_10_Intro\obj\Debug\net8.0\Clase08_10_Intro.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase08_10_Intro\obj\Debug\net8.0\Clase08_10_Intro.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase08_10_Intro\obj\Debug\net8.0\refint\Clase08_10_Intro.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase08_10_Intro\obj\Debug\net8.0\Clase08_10_Intro.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase08_10_Intro\obj\Debug\net8.0\Clase08_10_Intro.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase08_10_Intro\obj\Debug\net8.0\ref\Clase08_10_Intro.dll

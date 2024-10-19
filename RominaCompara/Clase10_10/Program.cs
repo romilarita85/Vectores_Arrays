@@ -265,7 +265,7 @@
         {
             foreach (int elemento in vector)
             {
-                if (elemento % 2 == 0)
+                if (elemento % 2 == 0)// && elemento != 0
                 {
                     Console.WriteLine(elemento);
                 }
@@ -323,7 +323,7 @@
                     }
                     else 
                     {
-                        if (vector[i] < vector[j]) //SI ASCENDENTE ESTA EN FALSE : ME LO MUESTA DE MAYOR A MENOR
+                        if (vector[i] < vector[j]) //SI DESCENDENTE ESTA EN FALSE : ME LO MUESTA DE MAYOR A MENOR
                         {
                             auxiliar = vector[i];
                             vector[i] = vector[j];

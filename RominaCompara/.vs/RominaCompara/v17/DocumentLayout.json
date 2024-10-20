@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{CC3C54FF-F3C6-496C-BC03-11DFAFBBF787}|Clase17_10_ArrayDeChar\\Clase17_10_ArrayDeChar.csproj|solutionrelative:clase17_10_arraydechar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4F20FF64-8285-42D9-8BB0-C74E09B3B51D}|BibliotecaDeVectores\\BibliotecaDeVectores.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\vectores_arrays\\rominacompara\\bibliotecadevectores\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F20FF64-8285-42D9-8BB0-C74E09B3B51D}|BibliotecaDeVectores\\BibliotecaDeVectores.csproj|solutionrelative:bibliotecadevectores\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9F0EE521-2B4C-447D-B37E-FE48759EABFE}|Clase08_10_Intro\\Clase08_10_Intro.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\vectores_arrays\\rominacompara\\clase08_10_intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F0EE521-2B4C-447D-B37E-FE48759EABFE}|Clase08_10_Intro\\Clase08_10_Intro.csproj|solutionrelative:clase08_10_intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +34,42 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vector.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\Vectores_Arrays\\RominaCompara\\BibliotecaDeVectores\\Vector.cs",
+              "RelativeDocumentMoniker": "BibliotecaDeVectores\\Vector.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\Vectores_Arrays\\RominaCompara\\BibliotecaDeVectores\\Vector.cs",
+              "RelativeToolTip": "BibliotecaDeVectores\\Vector.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA6wDYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T23:51:19.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\Vectores_Arrays\\RominaCompara\\Clase17_10_ArrayDeChar\\Program.cs",
               "RelativeDocumentMoniker": "Clase17_10_ArrayDeChar\\Program.cs",
               "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\Vectores_Arrays\\RominaCompara\\Clase17_10_ArrayDeChar\\Program.cs",
               "RelativeToolTip": "Clase17_10_ArrayDeChar\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwHYAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAD0BAAAAAAAAAAAmwMsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T23:39:30.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\Vectores_Arrays\\RominaCompara\\Clase08_10_Intro\\Program.cs",
               "RelativeDocumentMoniker": "Clase08_10_Intro\\Program.cs",
               "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\Vectores_Arrays\\RominaCompara\\Clase08_10_Intro\\Program.cs",
               "RelativeToolTip": "Clase08_10_Intro\\Program.cs",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAgwDsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T12:42:18.59Z"
+              "WhenOpened": "2024-10-11T12:42:18.59Z",
+              "EditorCaption": ""
             }
           ]
         }

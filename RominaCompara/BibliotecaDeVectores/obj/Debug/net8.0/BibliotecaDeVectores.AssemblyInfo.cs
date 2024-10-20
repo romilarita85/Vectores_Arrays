@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Clase08_10_Intro")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("BibliotecaDeVectores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56b96ed89e3d6a823f5d210ded0496ba2f23f5b5")]
-[assembly: System.Reflection.AssemblyProductAttribute("Clase08_10_Intro")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Clase08_10_Intro")]
+[assembly: System.Reflection.AssemblyProductAttribute("BibliotecaDeVectores")]
+[assembly: System.Reflection.AssemblyTitleAttribute("BibliotecaDeVectores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

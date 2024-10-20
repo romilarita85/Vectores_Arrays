@@ -1,0 +1,6 @@
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase17_10_ArrayDeChar\obj\Debug\net8.0\Clase17_10_ArrayDeChar.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase17_10_ArrayDeChar\obj\Debug\net8.0\Clase17_10_ArrayDeChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase17_10_ArrayDeChar\obj\Debug\net8.0\Clase17_10_ArrayDeChar.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase17_10_ArrayDeChar\obj\Debug\net8.0\Clase17_10_ArrayDeChar.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase17_10_ArrayDeChar\obj\Debug\net8.0\Clase17_10_ArrayDeChar.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\Vectores_Arrays\RominaCompara\Clase17_10_ArrayDeChar\obj\Debug\net8.0\Clase17_10_ArrayDeChar.sourcelink.json
